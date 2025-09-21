@@ -43,6 +43,7 @@
         font-family: Volkhov;
         font-weight: 700;
         color: #14183E;
+        font-size: 3.125rem;
     }
 
     .destination__cards{

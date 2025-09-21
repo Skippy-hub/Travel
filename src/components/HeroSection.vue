@@ -79,6 +79,7 @@
         font-weight: 500;
         font-size: 1.125rem;
         text-align: center;
+        cursor: pointer;
     }
 
     .buttons__demoBlock{
@@ -86,7 +87,7 @@
         gap: 1.3rem;
         align-items: center;
     }
-
+    
     .demoBlock__play{
         border-radius: 50%;
         border: none;
@@ -94,6 +95,7 @@
         box-shadow: 0px 15px 30px 0px #DF69514D;
         width: 3.25rem;
         height: 3.25rem;
+        cursor: pointer;
     }
 
     .demoBlock__text{

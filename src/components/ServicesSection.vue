@@ -9,8 +9,8 @@
 <template>
     <section class="services">
         <div class="services__top">
-            <h6 class="services__subtitle">CATEGORY</h6>
-            <h2 class="services__title">We Offer Best Services</h2>
+            <h6 class="services__top-subtitle">CATEGORY</h6>
+            <h2 class="services__top-title">We Offer Best Services</h2>
         </div>
         <div class="services__cards">
             <ServiceCard :image="CardImage1" title="Calculated Weather" description="Built Wicket longer admire do barton vanity itself do in it."/>

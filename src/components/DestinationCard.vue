@@ -32,6 +32,10 @@
         line-height: 125%;
     }
 
+    .destination__card:hover{
+        box-shadow: 3.15px 3.15px 3.15px 3.15px #000000;
+    }
+
     .destination__container{
         position: absolute;
         bottom: 0;

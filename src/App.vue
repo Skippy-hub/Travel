@@ -3,6 +3,7 @@
   import HeroSection from './components/HeroSection.vue';
   import ServicesSection from './components/ServicesSection.vue';
   import DestinationsSection from './components/DestinationsSection.vue';
+  import TripSection from './components/TripSection.vue';
 </script>
 
 <template>
@@ -11,6 +12,7 @@
     <HeroSection/>
     <ServicesSection/>
     <DestinationsSection/>
+    <TripSection/>
   </main>
 </template>
 
